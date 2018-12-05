@@ -1,0 +1,14 @@
+.card-panel {
+  position: relative;
+  margin-bottom: 3rem;
+  background: #222;
+}
+
+.card-panel .card-close {
+  position: absolute;
+  top: -3.5rem;
+  right: -1.5rem;
+  font-size: 4rem;
+  cursor: pointer;
+  color: rgb(236, 92, 92);
+}
